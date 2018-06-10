@@ -1,20 +1,3 @@
-Unmaintained
-============
-
-The original maintainer of this project no longer uses nano and hence
-has very little motivation to continue working on it. It remains
-available on GitHub for archival purposes only.
-
-I highly recommend using [dte] as a simple but much more capable editor.
-
-[dte] screenshot:
-
-![dte screenshot](https://craigbarnes.gitlab.io/dte/screenshot.png)
-
-
-------
-
-
 Description
 -----------
 
@@ -140,7 +123,6 @@ OTHER DEALINGS IN THE SOFTWARE.
 For more information, please refer to <http://unlicense.org/>
 
 
-[dte]: https://github.com/craigbarnes/dte
 [GNU nano]: http://www.nano-editor.org/
 [nanorc]: http://www.nano-editor.org/dist/v2.3/nanorc.5.html
 [theme.sed]: https://github.com/nanorc/nanorc/tree/master/theme.sed

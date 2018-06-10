@@ -1,1 +1,2 @@
-color brightwhite,cyan "TODO:?"
+color black,cyan   "TODO:?"
+color black,yellow "FIXME:?"

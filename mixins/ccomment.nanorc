@@ -1,2 +1,2 @@
-COMMENT: "(^|[[:space:]])//.*"
+COMMENT: "//.*"
 COMMENT: start="/\*" end="\*/"
